@@ -1,0 +1,3 @@
+# Design Philosophy
+
+Dummy content
