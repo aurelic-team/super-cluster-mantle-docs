@@ -1,3 +1,7 @@
+---
+pagination_next: protocol-mechanic/fund-management-strategy
+---
+
 # How SuperCluster Works
 
 SuperCluster is like a high-yield savings account for your stablecoins. You deposit USDC, receive liquid tokens that grow in value, and can access your funds anytime—all while your deposit earns consistent yield from established DeFi lending platforms.

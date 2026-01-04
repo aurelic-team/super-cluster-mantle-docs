@@ -1,3 +1,6 @@
+---
+pagination_next: key-features/pilot-strategy-layer
+---
 # Liquid Saving Token
 
 SuperCluster mints Liquid Saving Tokens for every USDC deposit. They prove ownership of the underlying principal and continuously accrue yield through the protocol exchange rate.
