@@ -1,5 +1,5 @@
 ---
-pagination_next: user_flow/mint_s_usdc
+pagination_next: user-flow/mint-s-usdc
 ---
 
 # Deposit Stablecoin

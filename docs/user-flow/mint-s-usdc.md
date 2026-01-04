@@ -75,20 +75,20 @@ sUSDC Minted = USDC Deposited / Exchange Rate
 
 - Convert to non-rebasing token
 - Better for DeFi integrations
-- See [Wrap to wsUSDC](./wrap_ws_usdc.md)
+- See [Wrap to wsUSDC](./wrap-ws-usdc.md)
 
 ### 4. Use in DeFi
 
 - Provide liquidity on DEX
 - Use as collateral (with compatible protocols)
 - Participate in DeFi strategies
-- See [Use in DeFi](./use_in_defi.md)
+- See [Use in DeFi](./use-in-defi.md)
 
 ### 5. Withdraw
 
 - Request withdrawal to get USDC back
 - Or swap directly on DEX
-- See [Two-Step Withdrawal](./two_step_withdrawal.md)
+- See [Two-Step Withdrawal](./two-step-withdrawal.md)
 
 ## Technical Details
 
@@ -140,7 +140,7 @@ Some DeFi protocols don't support rebasing tokens:
 - Some AMMs
 - Certain yield aggregators
 
-**Solution:** Wrap to **[wsUSDC](./wrap_ws_usdc.md.md)** for full compatibility
+**Solution:** Wrap to **[wsUSDC](./wrap-ws-usdc.md)** for full compatibility
 
 ### Track Yield
 
